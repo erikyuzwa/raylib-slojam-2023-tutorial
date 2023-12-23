@@ -62,7 +62,7 @@ typedef enum {
     TYPE_PLAYER
 } EntityType;
 
-#define MAX_METEORS 50
+#define MAX_METEORS 20
 #define MAX_TEXTURES 4
 #define MAX_SHOTS 5
 #define MAX_SOUNDS 2
