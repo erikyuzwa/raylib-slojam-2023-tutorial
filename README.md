@@ -1,12 +1,15 @@
 -----------------------------------
 
-## Meteor Attack
+## Asteroids Tutorial with Raylib
 
-![Meteor Attack](screenshots/screenshot000.png "Meteor Attack")
+Available for play on Itch.io!
+
+<iframe frameborder="0" src="https://itch.io/embed/2440491" width="552" height="167"><a href="https://eyuzwa.itch.io/asteroids-tutorial-with-raylib">Asteroids Tutorial with Raylib by eyuzwa</a></iframe>
 
 ### Description
 
-Shoot down all the meteors before they reach Earth!
+Move your player with the arrow keys, and use the left-control key to fire your laser. When
+all of the asteroids have been destroyed, the Earth is saved and the game is over.
 
 ### Features
 
@@ -24,7 +27,7 @@ Keyboard:
 
 ### Screenshots
 
-_TODO: Show your game to the world, animated GIFs recommended!._
+![Asteroids](screenshots/screenshot000.png "Asteroids!")
 
 ### Developers
 
