@@ -4,6 +4,8 @@
 
 Available for play on Itch.io - https://eyuzwa.itch.io/asteroids-tutorial-with-raylib
 
+![Asteroids](screenshots/screenshot_1.png "Asteroids!")
+
 ### Description
 
 Move your player with the arrow keys, and use the left-control key to fire your laser. When
@@ -25,7 +27,8 @@ Keyboard:
 
 ### Screenshots
 
-![Asteroids](screenshots/screenshot000.png "Asteroids!")
+![Asteroids](screenshots/screenshot_1.png "Asteroids!")
+
 
 ### Developers
 
