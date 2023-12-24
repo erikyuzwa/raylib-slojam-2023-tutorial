@@ -2,9 +2,7 @@
 
 ## Asteroids Tutorial with Raylib
 
-Available for play on Itch.io!
-
-<iframe frameborder="0" src="https://itch.io/embed/2440491" width="552" height="167"><a href="https://eyuzwa.itch.io/asteroids-tutorial-with-raylib">Asteroids Tutorial with Raylib by eyuzwa</a></iframe>
+Available for play on Itch.io - https://eyuzwa.itch.io/asteroids-tutorial-with-raylib
 
 ### Description
 
